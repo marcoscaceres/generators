@@ -1,0 +1,1 @@
+//XHR as a promise
